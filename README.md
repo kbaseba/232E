@@ -37,9 +37,4 @@ Each folder includes:
 
 ## Course Information
 
-- **Instructor**: Prof. Vwani Roychowdhury  
-  - Email: [vwani@g.ucla.edu](mailto:vwani@g.ucla.edu)
-
-- **Teaching Assistants**:  
-  - Mingjian Lu — [mingjianlu@g.ucla.edu](mailto:mingjianlu@g.ucla.edu)  
-  - Shreyas Rajesh — [shreyasrajesh38@g.ucla.edu](mailto:shreyasrajesh38@g.ucla.edu)
+- **Instructor**: Prof. Vwani Roychowdhury
