@@ -175,3 +175,5 @@ cython_debug/
 
 # more ignores
 .DS_Store
+
+Project_4/los_angeles.csv
